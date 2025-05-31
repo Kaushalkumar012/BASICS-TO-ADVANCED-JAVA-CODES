@@ -9,6 +9,7 @@ public class Main {
         System.out.println();
     }
 }
-##ljoljnl
-
-
+```
+## - Output in Java:-
+i)print [ System.out.print("hello world"); ]
+ii)println
