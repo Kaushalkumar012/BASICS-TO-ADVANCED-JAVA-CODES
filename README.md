@@ -2,10 +2,8 @@
 This repo contains all the Problem solutions of JAVA BASICS TO ADVANCED.
 # i) VARIABLES & DATA TYPES
 # ◘ BOILERPLATE CODE ( basic code structure):- 
-public class main{ <br>
-(```) public static void main(string args [] ){ <br>
-``` ....................... <br>
-```  } <br>
-}
+```public class main{
+     ````jhbbh
+  
 
 
