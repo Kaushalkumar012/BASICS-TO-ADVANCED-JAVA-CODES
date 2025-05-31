@@ -14,3 +14,5 @@ public class Main {
 i)print [ System.out.print("hello world"); ] <br>
 ii)println [System.out.println("hello world"); ] <br>
 iii)"/n" [System.out.print("/n hello world"); ]
+ * println & /n is used for changing the line.
+    
