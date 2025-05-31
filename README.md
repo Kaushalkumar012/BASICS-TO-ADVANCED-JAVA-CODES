@@ -24,12 +24,15 @@ iii)"/n" [System.out.print("/n hello world"); ]
         System.out.println("**");
         System.out.println("*");
     }
-   } <br>
-   Output:- <br>
+   } 
+   ```
+   Output:-
+   ```java
    ****
    ***
    **
    *
+   ```
 
    
    
