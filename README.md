@@ -59,7 +59,7 @@ iii)"/n" [System.out.print("/n hello world"); ]
    10
    ```
    ## DATA TYPES:-<br>
-  THERE ARE TWO TYPES PF DATATYPE:-
+
   ## 📊 Primitive vs Non-Primitive Data Types in Java
 
 | Feature                | 🟢 Primitive Data Types                      | 🔵 Non-Primitive Data Types                  |
