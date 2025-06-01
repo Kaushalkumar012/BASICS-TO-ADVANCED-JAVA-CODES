@@ -33,6 +33,11 @@ iii)"/n" [System.out.print("/n hello world"); ]
    **
    *
    ```
+   ## VARIABLES In JAVA:-
+   Variables in java are containers used to store data values.Every variables must be declared with a datatype.
+   ex:- 2*(a + b)
+   in this 2 is called literal and a and b are called variables.
+   literals means(fixed values directly written to the source code.)
 
    
    
