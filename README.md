@@ -98,6 +98,16 @@ public class Datatype {
  }
 }
 ````
+Output:-
+````java
+10
+1.01
+1.93999
+8837
+24
+8
+````
+
 
 
  
