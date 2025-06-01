@@ -38,6 +38,29 @@ iii)"/n" [System.out.print("/n hello world"); ]
    ex:- 2*(a + b)<br>
    in this 2 is called literal and a and b are called variables.<br>
    literals means(fixed values directly written to the source code.)<br>
+   NOW,<BR>
+   WRITE CODE USING VARIABLES:-<BR>
+   ````
+   public class Variables {
+    public static void main(String[] args) {
+        int a=5;
+        int b=10;
+        String name ="kaushal";
+        System.out.println(a);
+        System.err.println(b);
+        System.out.println(name);
+    }
+   }
+   ````
+   Output:-
+   ```
+   5
+   kaushal
+   10
+   ```
+   
+ 
+   
 
    
    
