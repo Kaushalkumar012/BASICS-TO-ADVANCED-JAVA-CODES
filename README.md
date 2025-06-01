@@ -58,6 +58,25 @@ iii)"/n" [System.out.print("/n hello world"); ]
    kaushal
    10
    ```
+   ## DATA TYPES:-<br>
+  THERE ARE TWO TYPES PF DATATYPE:-
+  ## 📊 Primitive vs Non-Primitive Data Types in Java
+
+| Feature                | 🟢 Primitive Data Types                      | 🔵 Non-Primitive Data Types                  |
+|------------------------|---------------------------------------------|---------------------------------------------|
+| **Definition**         | Basic built-in data types                   | Reference types that point to objects       |
+| **Examples**           | `int`, `float`, `char`, `boolean`, etc.     | `String`, `Array`, `Class`, `Interface`     |
+| **Memory Storage**     | Stack memory                                | Heap memory                                 |
+| **Default Value**      | Zero-based (e.g., 0, 0.0, false)            | `null`                                      |
+| **Size**               | Fixed                                        | Not fixed                                   |
+| **Object**             | No                                           | Yes                                         |
+| **Can be null?**       | ❌ No                                        | ✅ Yes                                       |
+| **Methods Available?** | ❌ No                                        | ✅ Yes                                       |
+| **Inheritance**        | ❌ Not possible                              | ✅ Supports inheritance                     |
+| **Wrapper Classes**    | Available (`Integer`, `Float`, etc.)         | Not required (already classes)              |
+
+
+   
    
  
    
