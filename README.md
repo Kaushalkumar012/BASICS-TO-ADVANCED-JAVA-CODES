@@ -59,6 +59,8 @@ iii)"/n" [System.out.print("/n hello world"); ]
    10
    ```
    ## DATA TYPES:-<br>
+   i) Primitive
+   ii) Non-Primitive
 
   ## 📊 Primitive vs Non-Primitive Data Types in Java
 
@@ -74,6 +76,14 @@ iii)"/n" [System.out.print("/n hello world"); ]
 | **Methods Available?** | ❌ No                                        | ✅ Yes                                       |
 | **Inheritance**        | ❌ Not possible                              | ✅ Supports inheritance                     |
 | **Wrapper Classes**    | Available (`Integer`, `Float`, etc.)         | Not required (already classes)              |
+
+## CODE USING DIFFERENT DATATYPES:-
+Example:-
+````java
+public class main{<br>
+
+ 
+
 
 
    
