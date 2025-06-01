@@ -40,7 +40,7 @@ iii)"/n" [System.out.print("/n hello world"); ]
    literals means(fixed values directly written to the source code.)<br>
    NOW,<BR>
    WRITE CODE USING VARIABLES:-<BR>
-   ````
+   ````java
    public class Variables {
     public static void main(String[] args) {
         int a=5;
@@ -53,7 +53,7 @@ iii)"/n" [System.out.print("/n hello world"); ]
    }
    ````
    Output:-
-   ```
+   ```java
    5
    kaushal
    10
