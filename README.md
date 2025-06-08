@@ -116,7 +116,27 @@ kaushal
    • Type compatible.<br>
    • Destination type > source type.<br>
     (Small data type stored in big datatype.)<br>
-    Byte-> short > int > float > long > double.<br>
+    Byte-> short > int > float > long > double.<br>  
+  -> Example:-'
+  ````java
+import java.util.Scanner;
+public class Typeconversion{
+    public  static void main(String arg []){
+        Scanner sc = new Scanner(System.in);
+        float number = sc.nextInt(); //62
+        System.out.println(number);
+    }
+}
+````
+Output:-
+````java
+62.0
+````
+
+
+     
+           
+       
 
    
    
