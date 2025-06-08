@@ -109,9 +109,9 @@ kaushal
 24
 8
 `````
-## Implicit Type Conversion:- (Widening Conversion)
-   Type conversion converting a variable from data type to another.<br>
-   When the conversion happen?<br>
+##  Type Conversion:- (Widening Conversion)
+   ⦿Type conversion converting a variable from data type to another.<br>
+   ## When the conversion happen?<br>
     •Type compatible.<br>
     •Destination type > source type.<br>
     (Small data type stored in big datatype.)<br>
