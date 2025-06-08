@@ -110,7 +110,10 @@ kaushal
 8
 `````
 ## Implicit Type Conversion:- (Widening Conversion)
-
+   Type conversion converting a variable from data type to another.
+   When the conversion happen?
+   . Type compatible.
+   
 
 
  
