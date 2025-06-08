@@ -110,12 +110,14 @@ kaushal
 8
 `````
 ##  Type Conversion:- (Widening Conversion)
-   ⦿Type conversion converting a variable from data type to another.<br>
-   ## When the conversion happen?<br>
-    •Type compatible.<br>
-    •Destination type > source type.<br>
-    (Small data type stored in big datatype.)<br>
+   ⦿ Type conversion converting a variable from data type to another.
+   
+## When the conversion happen?
+   • Type compatible.
+   • Destination type > source type.
+    (Small data type stored in big datatype.)
     Byte-> short > int > float > long > double.
+
    
    
 
