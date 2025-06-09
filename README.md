@@ -133,8 +133,25 @@ Output:-
 62.0
 ````
 ## Type Casting:- <BR>
-•Narrowing (Explicit) Type Casting.<br>
-•Also called manual type casting, it happens when a larger data type is converted into a smaller data type.<br>
+⦿ Also called as Narrowing (Explicit) Type Casting.<br>
+⦿ Also called manual type casting, it happens when a larger data type is converted into a smaller data type.<br>
+Example:-
+ ````java
+import java.util.Scanner;
+public class Typecasting {
+    public static void main(String arg []){
+        Scanner sc = new Scanner(System.in); //97
+        char a = (char)sc.nextShort();
+        System.out.println(a);
+    }
+}
+````
+Output:-
+````
+a
+````
+
+
 
 
 
