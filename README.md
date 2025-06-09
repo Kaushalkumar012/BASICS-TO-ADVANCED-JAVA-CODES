@@ -132,9 +132,10 @@ Output:-
 ````java
 62.0
 ````
-## Type Casting:-<BR>
+## Type Casting:- <BR>
 •Narrowing (Explicit) Type Casting.<br>
 •Also called manual type casting, it happens when a larger data type is converted into a smaller data type.<br>
+
 
 
      
