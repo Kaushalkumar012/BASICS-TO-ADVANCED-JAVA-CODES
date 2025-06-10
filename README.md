@@ -150,8 +150,9 @@ Output:-
 ````
 a
 ````
-
-
+## Type Promotion In Expressions:-
+i) Java automatically promotes each byte,short or char operand to int when evaluating an expression.<br>
+ii)
 
 
 
