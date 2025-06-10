@@ -153,7 +153,7 @@ a
 ## Type Promotion In Expressions:-
 i) Java automatically promotes each byte,short or char operand to int when evaluating an expression.<br>
 ii) If one operand is long,float or double the whole expressions is promoted long,float or double respectively.
-Examples:-
+Example (when Java automatically promotes each byte,short or char operand to int when evaluating an expression).
 ````java
     public class Type_promotion{
     public static void main(String arag[]){
