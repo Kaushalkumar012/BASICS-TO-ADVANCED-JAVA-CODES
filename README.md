@@ -157,7 +157,7 @@ ii) If one operand is long,float or double the whole expressions is promoted lon
 Example <u>(when Java automatically promotes each byte, short or char operand to int)</u>
 ````java
     public class Type_promotion{
-    public static void main(String arag[]){
+    public static void main(String args[]){
     char a ='a';
     char b ='b';
     System.out.println( (int)b);
