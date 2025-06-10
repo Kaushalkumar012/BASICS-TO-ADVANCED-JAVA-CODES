@@ -155,6 +155,7 @@ i) Java automatically promotes each byte,short or char operand to int when evalu
 ii) If one operand is long,float or double the whole expressions is promoted long,float or double respectively.<br>
 
 Example <u>(when Java automatically promotes each byte, short or char operand to int)</u>
+I)
 ````java
     public class Type_promotion{
     public static void main(String args[]){
