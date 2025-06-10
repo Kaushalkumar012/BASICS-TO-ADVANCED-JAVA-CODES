@@ -154,7 +154,7 @@ a
 i) Java automatically promotes each byte,short or char operand to int when evaluating an expression.<br>
 ii) If one operand is long,float or double the whole expressions is promoted long,float or double respectively.<br>
 
-Example <u>(when Java automatically promotes each byte, short or char operand to int)</u>
+Example <u>(when Java automatically promotes each byte, short or char operand to int)</u> <BR>
 I)
 ````java
     public class Type_promotion{
@@ -173,6 +173,41 @@ Output:-
  98
  97
  1
+````
+II}
+````java
+public class convert_higher{
+    public static void main(String args[]){
+        short a =5;
+        byte b = 25;
+        char c= 'c';
+        byte result = a+b+c;
+        System.out.println(result);
+    
+    }
+}
+````
+Output:-
+````java
+Error its shows that byte can't change to int datatype but using type casting we can.
+````
+
+Example:-<u>(If one operand is long,float or double the whole expressions is promoted long,float or double.)</u> <BR>
+````java
+public class convert_higher{
+    public static void main(String args[]){
+      long a =60;
+      int b =10;
+      double d =90;
+      double ans = a+b;
+      System.out.println(ans);
+     
+    }
+}
+````
+Output:-
+````java
+70.0
 ````
 
 
