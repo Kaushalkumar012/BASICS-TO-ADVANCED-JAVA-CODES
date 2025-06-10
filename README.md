@@ -211,11 +211,12 @@ Output:-
 ````
 
 
-⦿ VARIABLES & DATA TYPES QUESTIONS. click here
-   [Variables_Questions_Final.pdf1.pdf](https://github.com/user-attachments/files/20673266/Variables_Questions_Final.pdf1.pdf)
+⦿ VARIABLES & DATA TYPES QUESTIONS.<BR>
+  
 
  
    
+[Click Here.pdf](https://github.com/user-attachments/files/20673293/Click.Here.pdf)
 
    
    
