@@ -212,10 +212,6 @@ Output:-
 
 
 ⦿ VARIABLES & DATA TYPES QUESTIONS.<BR>
-  
-
- 
-   
 [Click Here.pdf](https://github.com/user-attachments/files/20673293/Click.Here.pdf)
 
    
