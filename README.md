@@ -210,7 +210,7 @@ Output:-
 70.0
 ````
 
-
+   
 ⦿ VARIABLES & DATA TYPES QUESTIONS.<BR>
 [Click Here.pdf](https://github.com/user-attachments/files/20673293/Click.Here.pdf)
 
