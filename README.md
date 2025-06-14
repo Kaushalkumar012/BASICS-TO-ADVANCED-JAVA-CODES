@@ -215,13 +215,13 @@ Output:-
 [Click Here.pdf](https://github.com/user-attachments/files/20673293/Click.Here.pdf)   
 
 ### OPERATORS IN JAVA:-
-Symbols that tell compiler to peform some operation.
-### Types of Operators:-
-i)Arithmetic Operator(unary/binary)
-ii)Relational Operator
-iii)Logical Operator
-iv)Bitwise Operator
-v)Assignment Operator
+Symbols that tell compiler to peform some operation.<BR>
+### Types of Operators:-<BR>
+i)Arithmetic Operator(unary/binary)<BR>
+ii)Relational Operator<BR>
+iii)Logical Operator<BR>
+iv)Bitwise Operator<BR>
+v)Assignment Operator<BR>
 
 
 
