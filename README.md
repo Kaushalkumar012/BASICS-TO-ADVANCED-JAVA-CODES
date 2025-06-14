@@ -214,6 +214,17 @@ Output:-
 ⦿ VARIABLES & DATA TYPES QUESTIONS.<BR>
 [Click Here.pdf](https://github.com/user-attachments/files/20673293/Click.Here.pdf)   
 
+### OPERATORS IN JAVA:-
+Symbols that tell compiler to peform some operation.
+### Types of Operators:-
+i)Arithmetic Operator(unary/binary)
+ii)Relational Operator
+iii)Logical Operator
+iv)Bitwise Operator
+v)Assignment Operator
+
+
+
 
 
 
