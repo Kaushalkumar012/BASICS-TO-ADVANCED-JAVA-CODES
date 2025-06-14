@@ -223,6 +223,27 @@ iii)Logical Operator<BR>
 iv)Bitwise Operator<BR>
 v)Assignment Operator<BR>
 
+⦿ Arithmetic Operator:- Are used for performing basic mathematical operations.<br>
+.Binary Operators:-(+),(-),(*),(/),(%)<br>
+Are Operators that work on two operands.<br>
+Example:-
+````java
+
+public class arithmetic_unary {
+    public static void main(String[] args) {
+    int a = 6;
+    int b = 5;
+    System.err.println(a+b);
+
+    }   
+}
+````
+Output:-
+`````java
+11
+`````
+
+
 
 
 
