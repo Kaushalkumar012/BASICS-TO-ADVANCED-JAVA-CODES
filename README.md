@@ -245,8 +245,55 @@ Output:-
 •<h1>Unary Operator:- Operator that operates on a single operand.</h1> <br>
 They are used to perform operations like increment,decrement,negation and logical not.<br>
 •Increment Operator(++) increases the value of a variable by 1.<br>
-<h3>There are Two types of Increemnt Operatrors:-<br></h3>
-•Post-Increment:The variable is increased first, then used.<br>
+<h3>There are Two types of Incremnt Operatrors:-<br></h3>
+•Post-Increment(a++):The variable is used first, then incremented.<br>
+Example:- 
+
+````java
+
+
+public class Postincrement {
+    public static void main(String[]args){
+        int a = 5;
+        int b = a++;
+        System.out.println(a);
+        System.out.println(b);
+    }
+    
+}
+````
+Output:-
+````java
+6
+5
+````
+•Pre-Increment(++a):-The variable is incremented first, then used.
+Example:-
+````java
+
+public class Preincrement {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = ++a; 
+        System.err.println(a);
+        System.err.println(b);
+    }
+}
+````
+Output:-
+````java
+11
+11
+````
+•Decrement Operator(--):- Is used to decrease the value of a variable by 1.<br>
+<h3>There are Two types of Incremnt Operatrors:-<br></h3>
+•Post-decrement(a--):The variable is used first, then decremented.<br>
+Example:-
+
+````java
+int a = 5;
+int b= a--; // int b=5,a=4
+````
 
 
 
