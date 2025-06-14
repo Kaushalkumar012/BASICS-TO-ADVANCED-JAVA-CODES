@@ -21,7 +21,7 @@ public class Main {
     }
 }
 ```
-## - Output in Java:-
+### - Output in Java:-
 i)print [ System.out.print("hello world"); ] <br>
 ii)println [System.out.println("hello world"); ] <br>
 iii)"/n" [System.out.print("/n hello world"); ]
