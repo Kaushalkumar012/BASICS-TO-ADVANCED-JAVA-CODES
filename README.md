@@ -294,6 +294,13 @@ Example:-
 int a = 5;
 int b= a--; // int b=5,a=4
 ````
+•Pre-decrement(--a):The variable is decremented first, then used .<br>
+Example:-
+
+````java
+int a = 6;
+int b = --a; //int a= 5, b=5
+````
 
 
 
