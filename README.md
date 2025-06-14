@@ -224,12 +224,12 @@ iv)Bitwise Operator<BR>
 v)Assignment Operator<BR>
 
 ⦿ Arithmetic Operator:- Are used for performing basic mathematical operations.<br>
-.Binary Operators:-(+),(-),(*),(/),(%)<br>
+•Binary Operators:-(+),(-),(*),(/),(%)<br>
 Are Operators that work on two operands.<br>
 Example:-
 ````java
 
-public class arithmetic_unary {
+public class arithmetic_binary {
     public static void main(String[] args) {
     int a = 6;
     int b = 5;
@@ -242,6 +242,14 @@ Output:-
 `````java
 11
 `````
+•Unary Operator:- Operator that operates on a single operand.<br>
+They are used to perform operations like increment,decrement,negation and logical not.<br>
+•Increment Operator(++) increases the value of a variable by 1.<br>
+There are Two types of Increemnt Operatrors:-
+•Post-Increment:The variable is increased first, then used.<br>
+
+
+
 
 
 
