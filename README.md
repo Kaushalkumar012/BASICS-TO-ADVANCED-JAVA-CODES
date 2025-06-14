@@ -243,9 +243,9 @@ Output:-
 11
 `````
 •<h1>Unary Operator:- Operator that operates on a single operand.</h1> <br>
-<h4>They are used to perform operations like increment,decrement,negation and logical not.<br></h4>
+They are used to perform operations like increment,decrement,negation and logical not.<br>
 •Increment Operator(++) increases the value of a variable by 1.<br>
-There are Two types of Increemnt Operatrors:-
+There are Two types of Increemnt Operatrors:-<br>
 •Post-Increment:The variable is increased first, then used.<br>
 
 
