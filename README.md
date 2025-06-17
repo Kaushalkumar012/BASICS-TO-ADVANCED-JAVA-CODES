@@ -314,13 +314,13 @@ int b = --a; //int a= 5, b=5
 ````
 ### RELATIONAL OPERATORS:-
 Are used to compare two values.They return a boolean result.-either true or false-based on whether the specified condition is met.<br>
-The operators are:-
-• ==(equal to)
-• !=(not equal to)
-• >(greater than)
-• <(less than)
-• >=(greater than or equal to)
-• <=(less than or equal to)
+The operators are:-<br>
+• ==(equal to)<br>
+• !=(not equal to)<br>
+• >(greater than)<br>
+• <(less than)<br>
+• >=(greater than or equal to)<br>
+• <=(less than or equal to)<br>
 
 
 
