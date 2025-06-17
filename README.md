@@ -332,7 +332,15 @@ int a = 10;
 int b = 20;
 System.out.println(a<b && b<30); //Its returns true:
 ````
-ii)Logical OR(||)
+ii)Logical OR(||): It returns true if at least one condition is true.
+Example:-
+```java
+int a = 5;
+int b = 10;
+System.out.println(a>b || b>8); // Its return True one case is true.
+````
+
+
 iii) Logical NOT(!)
 
   
