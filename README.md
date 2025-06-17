@@ -348,6 +348,16 @@ boolean is java = true;
 System.out.println(! is not java); // False
 ````
 # ASSIGNMENT OPERATOR:-
+Used to  assign values to variables.
+Example:-
+```java
+int a = 10;
+a+ = 5; //15
+a* = 2; //15*2=30
+a- = 10; // 30-10=20
+Sysrem.out.println(a); // Final output:- 20
+````
+
 
   
 
