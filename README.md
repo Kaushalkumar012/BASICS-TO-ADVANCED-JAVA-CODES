@@ -325,14 +325,14 @@ The operators are:-<br>
 # LOGICAL OPERATOR:-
 • Used to perform logical operations on boolean expressions.
 ## Three types of Logical Operators.
-i)Logical AND ( && ):It retuns true only if both the conditions are true.
+i)Logical AND (&&):It retuns true only if both the conditions are true.
 example:-
 ````java
 int a = 10;
 int b = 20;
 System.out.println(a<b && b<30); //Its returns true:
 ````
-ii) Logical OR ( || ): It returns true if at least one condition is true.
+ii) Logical OR (||): It returns true if at least one condition is true.
 Example:-
 ```java
 int a = 5;
