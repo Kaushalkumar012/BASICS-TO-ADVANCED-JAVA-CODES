@@ -341,7 +341,13 @@ System.out.println(a>b || b>8); // Its return True one case is true.
 ````
 
 
-iii) Logical NOT (!)
+iii) Logical NOT (!): If the condition is True, it return false, and vice versa.(It reverses the boolean value).
+Example:-
+```java
+boolean is java = true;
+System.out.println(! is not java); // False
+````
+# ASSIGNMENT OPERATOR:-
 
   
 
