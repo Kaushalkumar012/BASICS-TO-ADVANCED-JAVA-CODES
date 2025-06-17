@@ -325,7 +325,7 @@ The operators are:-<br>
 # LOGICAL OPERATOR:-
 • Used to perform logical operations on boolean expressions.
 ## Three types of Logical Operators.
-i)Logical AND (&&):It retuns true only if both the conditions are true.
+i) Logical AND (&&):It retuns true only if both the conditions are true.
 example:-
 ````java
 int a = 10;
