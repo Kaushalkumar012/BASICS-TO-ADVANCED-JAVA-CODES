@@ -322,17 +322,17 @@ The operators are:-<br>
 • >=(greater than or equal to)<br>
 • <=(less than or equal to)<br>
 
-## LOGICAL OPERATOR:-
+# LOGICAL OPERATOR:-
 • Used to perform logical operations on boolean expressions.
-# Three types of Logical Operators.
-i)Logical AND(&&):It retuns true only if both the conditions are true.
+## Three types of Logical Operators.
+i)Logical AND ( && ):It retuns true only if both the conditions are true.
 example:-
 ````java
 int a = 10;
 int b = 20;
 System.out.println(a<b && b<30); //Its returns true:
 ````
-ii)Logical OR(||): It returns true if at least one condition is true.
+ii) Logical OR ( || ): It returns true if at least one condition is true.
 Example:-
 ```java
 int a = 5;
@@ -341,7 +341,7 @@ System.out.println(a>b || b>8); // Its return True one case is true.
 ````
 
 
-iii) Logical NOT(!)
+iii) Logical NOT (!)
 
   
 
