@@ -368,7 +368,7 @@ iv) SWITCH<BR>
 
 EXAMPLES:-
 i) If Statement:-
-`````
+````` java
 int age = 18;
 if(age>=18){
 SOP("Eligible for vote"); // eligible only if the condition is true.
