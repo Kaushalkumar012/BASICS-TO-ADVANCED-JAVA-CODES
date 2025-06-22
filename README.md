@@ -395,6 +395,17 @@ if(age>=18){
   }
 }
 `````
+### Tenary Operator:-
+The tenary operator is a shortcut for the if-else statement.<br>
+•It is called tenary because it takes three operands.
+
+Example:-
+````java
+int marks = 67;
+string reportcard = marks>33?"pass":"fail";
+sop(reportcard);
+````
+
 
    
      
