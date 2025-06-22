@@ -387,13 +387,14 @@ iii) Else-if:-
 ````java
 int age = 18;
 if(age>=18){
-SOP("Eligible for vote")
+  sop("Eligible for vote")
 }else if (age>=13 && age <18){
- sop("teenager);
+  sop("teenager);
  }else{
- sop("child");
- }
+   sop("child");
+  }
 }
+`````
 
    
      
