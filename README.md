@@ -18,7 +18,7 @@ This repo contains all the Problem solutions of JAVA BASICS TO ADVANCED.
 public class Main {
     public static void main(String[] args) {
         System.out.println();
-    }
+    }  
 }
 ```
 ### - Output in Java:-
