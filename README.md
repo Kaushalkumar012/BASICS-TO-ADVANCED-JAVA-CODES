@@ -361,7 +361,10 @@ Sysrem.out.println(a); // Final output:- 20
 ==> Conditional Statements in Java are used to perform different actions based on different conditions.They help control the flow of a program based on whether a given condition is true or false.<br>
 ## Types of Conditional Statements
 ----
-jhggsavd
+i) IF
+ii) IF-ELSE
+iii) IF-ELSE-IF ELSE
+iv) SWITCH
    
      
 
