@@ -374,7 +374,14 @@ if(age>=18){
 SOP("Eligible for vote"); // eligible only if the condition is true.
 }
 `````
-
+ii) If-else:-
+````java
+int age = 18;
+if(age>=18){
+SOP("Eligible for vote"); 
+}else{
+      sop("not eligible");
+}
    
      
 
