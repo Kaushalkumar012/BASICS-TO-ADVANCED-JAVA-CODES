@@ -154,7 +154,7 @@ public class Typecasting {
         Scanner sc = new Scanner(System.in); //97
         char a = (char)sc.nextShort();
         System.out.println(a);
-    }
+    }                                
 }
 ````
 Output:-
