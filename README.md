@@ -14,7 +14,7 @@ This repo contains all the Problem solutions of JAVA BASICS TO ADVANCED.
 ### i) VARIABLES & DATA TYPES
 ### - Boilerplate Code( basic code structure):-
 
-```java
+```java     
 public class Main {
     public static void main(String[] args) {
         System.out.println();
