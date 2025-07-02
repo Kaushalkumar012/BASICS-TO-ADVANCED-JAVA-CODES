@@ -91,7 +91,7 @@ iii)"/n" [System.out.print("/n hello world"); ]
 ## CODE USING DIFFERENT DATATYPES:-
 Example:-
 ````java
-public class Datatype {
+public class Datatype {                             
      public static void main(String args[]){
     int a =10;
     float f= 1.01f;
